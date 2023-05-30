@@ -1,7 +1,7 @@
 # VR_Practical_Test
 **Code Analysis**
 <br>
-Code Analysis is done.It is uploaded in file "CODE".
+Code Analysis is done and it is uploaded in the file "CODE".
 
 **Practical Test**
 <br>

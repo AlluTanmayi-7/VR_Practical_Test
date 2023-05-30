@@ -1,30 +1,6 @@
 # VR_Practical_Test
 **Code Analysis**
 <br>
-<br>
-using UnityEngine;
-using UnityEngine.XR;
-public class VRInteractions : MonoBehaviour
-{
-    private bool isInteracting;
-
-    private void Update()
-    {
-        if (isInteracting)
-        {
-            Debug.Log("Interacting with object.");
-        }
-        else
-        {
-            Debug.Log("Not interacting.");
-        }
-    }
-
-    public void Interact()
-    {
-        isInteracting = !isInteracting;
-    }
-}
 
 **Practical Test**
 <br>
